@@ -1,7 +1,7 @@
 ---
 title: "[Spring DI/IoC] IoC? DI? 그게 뭔데?"
 description: 스프링 공부하다 보면 맨날 나오는 이야기 IoC, 그리고 DI. 그래서 그게 대체 뭔데요?
-date: 2024-02-10
+date: 2022-04-30
 update: 2024-02-10
 series: Spring DI/IoC
 tags:
