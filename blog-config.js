@@ -7,7 +7,7 @@ module.exports = {
     github: "https://github.com/Ohzzi",
     linkedIn: "https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%98%A4-289022258/",
     instagram: "https://www.instagram.com/oh_zzi_/",
-    email: "jihoon970712@gmail.com",
+    email: "mailto:jihoon970712@gmail.com",
     resume: "https://battle-guide-a40.notion.site/7a8ed7476fba4cb38857de8d0e5075cf",
   },
   utterances: {
