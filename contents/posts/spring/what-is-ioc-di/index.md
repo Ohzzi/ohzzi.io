@@ -146,10 +146,10 @@ public A implements BInjection {
 
 이번 글에서는 IoC와 DI의 개념을 간단히 (최대한 스프링과의 연계를 빼고) 정리해보는 시간을 가졌다. 다음 게시물에서는 스프링이 어떻게 IoC와 DI를 사용하는지 살펴보도록 하자.
 
-> 참고 자료
-> 토비의 스프링 3.1, Vol.1
-> [의존관계 주입(Dependency Injection) 쉽게 이해하기](https://tecoble.techcourse.co.kr/post/2021-04-27-dependency-injection/)
-> [의존성 주입, Dependency Injection에 관한 고찰🔎 With OOP](https://hue-dev.site/springframework/2021/05/03/Dependency-Injection-%EC%9D%B4-%EB%AD%90%EC%97%90%EC%9A%94.html)
-> [InversionOfControl](https://martinfowler.com/bliki/InversionOfControl.html)
-> [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
-> [Core Technologies](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-factory-collaborators)
+> 참고 자료  
+> 토비의 스프링 3.1, Vol.1  
+> [의존관계 주입(Dependency Injection) 쉽게 이해하기](https://tecoble.techcourse.co.kr/post/2021-04-27-dependency-injection/)  
+> [의존성 주입, Dependency Injection에 관한 고찰🔎 With OOP](https://hue-dev.site/springframework/2021/05/03/Dependency-Injection-%EC%9D%B4-%EB%AD%90%EC%97%90%EC%9A%94.html)  
+> [InversionOfControl](https://martinfowler.com/bliki/InversionOfControl.html)  
+> [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)  
+> [Core Technologies](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-factory-collaborators)  

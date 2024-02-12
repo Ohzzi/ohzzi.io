@@ -61,6 +61,6 @@ F12는 이 문제를 해결하기 위해 Access Token을 `자바스크립트 pri
 
 > **참고 자료**
 >
-> [[프로젝트] Refresh Token 적용하기](https://pomo0703.tistory.com/208#recentComments)
-> [refresh token 도입기](https://tecoble.techcourse.co.kr/post/2021-10-20-refresh-token/)
-> [Access Token의 문제점과 Refresh Token](https://hudi.blog/refresh-token/)
+> [[프로젝트] Refresh Token 적용하기](https://pomo0703.tistory.com/208#recentComments)  
+> [refresh token 도입기](https://tecoble.techcourse.co.kr/post/2021-10-20-refresh-token/)  
+> [Access Token의 문제점과 Refresh Token](https://hudi.blog/refresh-token/)  

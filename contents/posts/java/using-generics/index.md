@@ -347,7 +347,7 @@ public static <T> List<T> flatten(List<? extends T>... lists) {
 
 ## 참고 자료
 > 이펙티브 자바
-https://intrepidgeeks.com/tutorial/understand-and-overcome-janericks-limitations-and-precautions
-https://asuraiv.tistory.com/16
-https://sabarada.tistory.com/123
-https://sabarada.tistory.com/124
+https://intrepidgeeks.com/tutorial/understand-and-overcome-janericks-limitations-and-precautions  
+https://asuraiv.tistory.com/16  
+https://sabarada.tistory.com/123  
+https://sabarada.tistory.com/124  
