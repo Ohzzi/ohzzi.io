@@ -16,7 +16,7 @@ const Wrapper = styled.h1`
   }
 
   & > a:hover {
-    color: ${props => props.theme.colors.secondaryText};
+    color: ${props => props.theme.colors.signature};
   }
 `
 

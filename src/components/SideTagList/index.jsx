@@ -23,7 +23,7 @@ const Wrapper = styled.aside`
 const Title = styled.div`
   margin-bottom: 25px;
   font-weight: bold;
-  color: ${props => props.theme.colors.secondaryText};
+  color: ${props => props.theme.colors.signature};
 `
 
 const Tag = styled.li`
@@ -33,7 +33,7 @@ const Tag = styled.li`
   transition: color 0.3s;
 
   &:hover {
-    color: ${props => props.theme.colors.text};
+    color: ${props => props.theme.colors.signatureLight};
   }
 
   & > a {

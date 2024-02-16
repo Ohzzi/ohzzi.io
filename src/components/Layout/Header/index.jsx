@@ -53,6 +53,11 @@ const BlogTitle = styled.span`
   & > a {
     text-decoration: none;
     color: inherit;
+    transition: all 0.3s;
+  }
+
+  & > a:hover {
+    color: ${props => props.theme.colors.signature};
   }
 `
 
@@ -74,7 +79,7 @@ const Menu = styled.div`
   }
 
   & svg:hover path {
-    fill: ${props => props.theme.colors.text};
+    fill: ${props => props.theme.colors.signature};
   }
 `
 

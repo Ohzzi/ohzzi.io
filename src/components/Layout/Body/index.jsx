@@ -1,3 +1,4 @@
+import MoveTopButton from "components/MoveTopButton"
 import React from "react"
 import styled from "styled-components"
 
@@ -8,7 +9,10 @@ const BodyWrapper = styled.div`
 `
 
 const Body = ({ children }) => {
-  return <BodyWrapper>{children}</BodyWrapper>
+  return <BodyWrapper>
+      {children}
+    <MoveTopButton />
+    </BodyWrapper>
 }
 
 export default Body

@@ -23,13 +23,17 @@ const TagLink = styled.div`
       : props.theme.colors.tagText};
   text-decoration: none;
   font-size: 14.4px;
-  transition: all 0.2s;
+  transition: all 0.3s;
 
   &:hover {
     background-color: ${props =>
       props.selected
         ? props.theme.colors.hoveredSelectedTagBackground
         : props.theme.colors.hoveredTagBackground};
+    color: ${props =>
+      props.selected
+        ? props.theme.colors.hoveredSelectedTagText
+        : props.theme.colors.hoveredTagText};
   }
 `
 

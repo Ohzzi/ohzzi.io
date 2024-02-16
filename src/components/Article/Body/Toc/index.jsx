@@ -65,7 +65,9 @@ const ParagraphTitle = styled.div`
     `}
 
   &:hover {
-    color: ${props => props.theme.colors.text};
+    color: ${props => props.active
+      ? props.theme.colors.signature
+      : props.theme.colors.signatureLight};
     cursor: pointer;
   }
 `

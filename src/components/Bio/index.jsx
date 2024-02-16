@@ -77,7 +77,7 @@ const LinksWrapper = styled.div`
   }
 
   & a:hover svg path {
-    fill: ${props => props.theme.colors.text};
+    fill: ${props => props.theme.colors.signature};
   }
 `
 

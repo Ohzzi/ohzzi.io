@@ -25,10 +25,12 @@ const SeriesHeader = styled.h2`
   & > a {
     color: inherit;
     text-decoration: none;
+    transition: color 0.3s;
   }
 
   & > a:hover {
     text-decoration: underline;
+    color: ${props => props.theme.colors.signature};
   }
 `
 
@@ -53,7 +55,10 @@ const Post = styled.li`
   }
 
   & > a:hover {
-    color: ${props => props.theme.colors.text};
+    color: ${props =>
+      props.currentPost
+        ? props.theme.colors.signature
+        : props.theme.colors.signatureLight};
   }
 
   & > svg {
