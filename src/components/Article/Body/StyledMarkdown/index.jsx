@@ -223,7 +223,8 @@ const StyledMarkdown = styled.div`
   }
 
   & a:hover {
-    background-color: ${props => props.theme.colors.text};
+    border-radius: 4px;
+    background-color: ${props => props.theme.colors.signature};
     color: ${props => props.theme.colors.hoveredLinkText};
   }
 `
